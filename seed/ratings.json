@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rating_ananya_maya",
+    "tutorId": "tutor_maya",
+    "studentId": "student_ananya",
+    "stars": 5,
+    "review": "Explains concepts clearly and keeps lessons focused.",
+    "createdAt": "2d"
+  },
+  {
+    "id": "rating_rohan_arjun",
+    "tutorId": "tutor_arjun",
+    "studentId": "student_rohan",
+    "stars": 5,
+    "review": "Project-based teaching helped a lot.",
+    "createdAt": "1d"
+  },
+  {
+    "id": "rating_ananya_neha",
+    "tutorId": "tutor_neha",
+    "studentId": "student_ananya",
+    "stars": 5,
+    "review": "Very practical speaking feedback.",
+    "createdAt": "3d"
+  }
+]

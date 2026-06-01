@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bid_maya_ananya_chemistry",
+    "requirementId": "post_ananya_chemistry_req",
+    "tutorId": "tutor_maya",
+    "price": 800,
+    "note": "Available Mon/Wed/Fri evenings. First class can be a trial session.",
+    "status": "accepted",
+    "createdAt": "3h"
+  },
+  {
+    "id": "bid_arjun_ananya_chemistry",
+    "requirementId": "post_ananya_chemistry_req",
+    "tutorId": "tutor_arjun",
+    "price": 750,
+    "note": "I can help with a structured organic chemistry revision plan.",
+    "status": "rejected",
+    "createdAt": "4h"
+  },
+  {
+    "id": "bid_arjun_rohan_coding",
+    "requirementId": "post_rohan_coding_req",
+    "tutorId": "tutor_arjun",
+    "price": 900,
+    "note": "We can build your React portfolio in four guided sessions.",
+    "status": "pending",
+    "createdAt": "1h"
+  }
+]

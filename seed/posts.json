@@ -1,0 +1,82 @@
+[
+  {
+    "id": "post_maya_jee_batch",
+    "kind": "announcement",
+    "authorId": "tutor_maya",
+    "authorRole": "tutor",
+    "title": "Weekend JEE crash batch starting soon",
+    "body": "Live online intensive covering calculus and coordinate geometry. Limited to 15 seats.",
+    "tags": ["JEE", "Mathematics", "Online"],
+    "mode": "online",
+    "location": { "state": "Karnataka", "district": "Bengaluru Urban", "city": "Bangalore", "pincode": "560001" },
+    "status": "active",
+    "createdAt": "2h",
+    "likes": ["student_ananya"],
+    "comments": [
+      { "id": "comment_jee_1", "authorId": "student_ananya", "body": "Is this useful for board prep too?", "createdAt": "1h" }
+    ]
+  },
+  {
+    "id": "post_neha_ielts_workshop",
+    "kind": "announcement",
+    "authorId": "tutor_neha",
+    "authorRole": "tutor",
+    "title": "Free IELTS speaking workshop this Saturday",
+    "body": "Join a 90-minute live session with mock interviews and personalised feedback.",
+    "tags": ["IELTS", "English", "Free"],
+    "mode": "online",
+    "location": { "state": "Maharashtra", "district": "Pune", "city": "Pune", "pincode": "411001" },
+    "status": "active",
+    "createdAt": "1d",
+    "likes": [],
+    "comments": []
+  },
+  {
+    "id": "post_ananya_chemistry_req",
+    "kind": "requirement",
+    "authorId": "student_ananya",
+    "authorRole": "student",
+    "title": "Need a Chemistry tutor for class 12 boards",
+    "body": "Looking for 3 sessions per week with organic chemistry focus. Prefer home tuition near Koramangala.",
+    "tags": ["Chemistry", "Class 12", "Home"],
+    "budget": "Rs 600-Rs 900/hr",
+    "mode": "home",
+    "location": { "state": "Karnataka", "district": "Bengaluru Urban", "city": "Bangalore", "pincode": "560034" },
+    "status": "completed",
+    "createdAt": "5h",
+    "likes": ["tutor_maya"],
+    "comments": []
+  },
+  {
+    "id": "post_rohan_coding_req",
+    "kind": "requirement",
+    "authorId": "student_rohan",
+    "authorRole": "student",
+    "title": "Need a Coding mentor for React project",
+    "body": "I need help building a portfolio project and understanding hooks properly.",
+    "tags": ["Coding", "React", "Online"],
+    "budget": "Rs 700-Rs 1000/hr",
+    "mode": "online",
+    "location": { "state": "Telangana", "district": "Hyderabad", "city": "Hyderabad", "pincode": "500081" },
+    "status": "active",
+    "createdAt": "3h",
+    "likes": [],
+    "comments": []
+  },
+  {
+    "id": "post_arjun_collab_req",
+    "kind": "requirement",
+    "authorId": "tutor_arjun",
+    "authorRole": "tutor",
+    "title": "Looking for a UI design tutor collaborator",
+    "body": "Planning a project-based coding plus design bootcamp and need a design mentor.",
+    "tags": ["Design", "Coding", "Collaboration"],
+    "budget": "Revenue share",
+    "mode": "online",
+    "location": { "state": "Telangana", "district": "Hyderabad", "city": "Hyderabad", "pincode": "500081" },
+    "status": "active",
+    "createdAt": "6h",
+    "likes": [],
+    "comments": []
+  }
+]
